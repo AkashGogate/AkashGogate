@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**AkashGogate/AkashGogate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Akash — a CS + Biology student at UW-Madison building at the intersection of distributed systems, machine learning, and computational biology.
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on satellite scheduling systems and Kafka data pipelines at Leidos, and single-cell genomics ML pipelines at the Kendziorski Lab (UW-Madison)
+- 🌱 I'm currently learning Rust for production systems, and going deeper on agentic RAG architectures and LLM evaluation methodology
+- 👯 I'm looking to collaborate on healthcare-adjacent ML tooling, LLM agent evaluation frameworks, and anything that pairs distributed systems with genomics
+- 🤔 I'm looking for help scaling Lotus Health (an ICD-10 risk-scoring engine that won honorable mention at MadData) past its hackathon prototype
+- 💬 Ask me about satellite scheduling algorithms, single-cell RNA-seq pipelines, LLM agent self-improvement, or how to string a tennis racket
+- 📫 How to reach me: akash.gogate@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I've run an independent tennis racket stringing business since 2019 — 45+ clients and still growing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent builds:** [Self-Improving LLM Agent](https://github.com/AkashGogate/SelfImprovingLLMAgent) · [Lotus Health](https://github.com/AkashGogate/lotus-health) · [Portfolio](https://akashgogate.github.io/PersonalPortfolio/)
