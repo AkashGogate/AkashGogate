@@ -19,4 +19,4 @@ I'm Akash — a CS + Biology student at UW-Madison building at the intersection 
 | 📧 Email | [akash.gogate@gmail.com](mailto:akash.gogate@gmail.com) |
 | 🔗 LinkedIn | [linkedin.com/in/akash-gogate](https://www.linkedin.com/in/akash-gogate) |
 | 💻 GitHub | [github.com/AkashGogate](https://github.com/AkashGogate) |
-| 🌐 Portfolio | [akashgogate.github.io/PersonalPortfolio](https://akashgogate.github.io/PersonalPortfolio/) |
+| 🌐 Portfolio | [https://portfoliowebsite.akashgogate.com/](https://portfoliowebsite.akashgogate.com/) |
